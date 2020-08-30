@@ -9,7 +9,6 @@ class Anagram
   
   def match(list)
     list.select{|word| word.split("").sort == @word.split("").sort}
-    binding.pry
   end
   
 end
