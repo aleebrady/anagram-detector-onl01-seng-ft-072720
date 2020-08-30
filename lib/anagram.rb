@@ -9,7 +9,7 @@ class Anagram
     binding.pry
   end
   
-  def matc(words) 
+  def match(words) 
     
     
   end
