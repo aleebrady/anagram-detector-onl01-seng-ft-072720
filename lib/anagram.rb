@@ -8,8 +8,8 @@ class Anagram
     @word = word
   end
   
-  def match 
-    
+  def matc(words) 
+    binding.pry
     
   end
 
